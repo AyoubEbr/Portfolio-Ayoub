@@ -297,7 +297,7 @@
         padding-top: 60px;
     }
     .Laravel {
-      width: 80%; /* Ensure images occupy full width of container */
+      width: 60%; /* Ensure images occupy full width of container */
       height: auto; /* Maintain aspect ratio */
       margin-bottom: 20px; /* Add some spacing between images */
   }
@@ -346,7 +346,7 @@
 
     .mainall {
         width: 90%;
-        margin: 0 auto; /* Center align content */
+        margin: 0 auto;
     }
 
     .all-img {
@@ -359,18 +359,18 @@
     }
 
     .all-tekst h2 {
-        font-size: 25px; /* Decrease font size for better fit */
+        font-size: 25px; 
         margin-bottom: 15px;
     }
 
     .all-tekst h5 {
-        font-size: 10px; /* Decrease font size for better fit */
+        font-size: 10px;
         margin-bottom: 20px;
     }
 
     .all-tekst p {
-        font-size: 14px; /* Decrease font size for better fit */
-        margin-bottom: 25px;
+        font-size: 11px; 
+        margin-bottom: 30px;
     }
 
     .button {
@@ -410,11 +410,11 @@
     }
 
     .github{
-        height: 51px; /* Decrease height for better fit */
+        height: 51px;
         margin-top: -3px;
     }
     .linkedin {
-        height: 50px; /* Decrease height for better fit */
+        height: 50px; 
         margin-top: 5px;
     }
 
