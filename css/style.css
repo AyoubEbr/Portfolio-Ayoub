@@ -6,7 +6,7 @@
   }
   
   body {
-    background-image: url(img/realpurple.jpg);
+    background-image: url(/img/realpurple.jpg);
     background-position: center;
     background-size: cover;
   }
@@ -217,9 +217,9 @@
 }
 
 .Laravel {
-    width: 60%; /* Ensure images occupy full width of container */
-    height: auto; /* Maintain aspect ratio */
-    margin-bottom: 20px; /* Add some spacing between images */
+    width: 60%; 
+    height: auto;
+    margin-bottom: 20px; 
 }
   
   .dropdown:hover .dropdown-content {
@@ -285,7 +285,7 @@
   
   @media screen and (max-width: 768px) {
     body {
-        background-image: url(img/realpurple.jpg);
+        background-image: url(/img/realpurple.jpg);
         background-position: center;
         background-size: cover;
         font-size: 14px;
@@ -297,9 +297,9 @@
         padding-top: 60px;
     }
     .Laravel {
-      width: 60%; /* Ensure images occupy full width of container */
-      height: auto; /* Maintain aspect ratio */
-      margin-bottom: 20px; /* Add some spacing between images */
+      width: 60%;
+      height: auto;
+      margin-bottom: 20px;
   }
 
     .logo {
